@@ -8,5 +8,7 @@
     "url": "https://www.edisource.co"
   },
   "homepage": "https://www.edisource.co",
+  "privacyPolicyUrl": "https://www.edisource.co/privacy",
+  "icon": ".claude-plugin/icon.png",
   "license": "Proprietary"
 }
