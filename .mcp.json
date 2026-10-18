@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "edisource": {
+      "type": "http",
+      "url": "https://claude-plugin.edisource.co/mcp"
+    }
+  }
+}
