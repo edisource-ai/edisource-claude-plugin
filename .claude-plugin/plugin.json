@@ -1,7 +1,7 @@
 {
   "name": "edisource",
   "displayName": "Edisource",
-  "description": "Edisource is the AI-powered publishing platform built for newsrooms and editorial teams. Connect the Edisource account you already have, and Claude can work right alongside your desk: search and open drafts, suggest block-by-block edits that wait in Content Studio for your approval, build and refine prompt templates, run a template from a link or your notes, and summarize or set up Discover feeds. When your team turns it on, Claude can also search your CMS and publish a draft. Admins decide what Claude can do from Edisource Settings.",
+  "description": "Edisource is the publishing platform for newsrooms. Connect the account you already have, and Claude can search and edit drafts, build and run templates, summarize Discover feeds, and publish when your team allows it. Edits wait in Content Studio until an editor accepts them.",
   "version": "0.1.0",
   "author": {
     "name": "Edisource",
